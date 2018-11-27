@@ -6,7 +6,7 @@ http://jscrollpane.kelvinluck.com/settings.html#animateScroll
 
 ## 如何使用
 
-###第一种直接引用
+### 第一种直接引用
 
 	<link type="text/css" href="components/jScrollPane/jquery.jscrollpane.css" rel="stylesheet"/>
 	<script type="text/javascript" src="lib/jq_ud_mod.js">
@@ -14,7 +14,7 @@ http://jscrollpane.kelvinluck.com/settings.html#animateScroll
 	<script type="text/javascript" src="components/jquery-mousewheel/jquery.mousewheel.js"></script>
 	<script type="text/javascript" src="components/jScrollPane/jquery.jscrollpane.js"></script>
 
-###第二种，已fis的component的组件生态引用
+### 第二种，已fis的component的组件生态引用
 
 	@import "components/jquery-jscrollpane/jquery.jscrollpane.css";
 
@@ -24,7 +24,7 @@ http://jscrollpane.kelvinluck.com/settings.html#animateScroll
 	$('.scroll-pane').jScrollPane();
 
 
-##参数选项
+## 参数选项
 
 	showArrows - boolean (default false)//显示滑杆两边的箭头
 
